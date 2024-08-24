@@ -7,11 +7,11 @@
 <p>Este proyecto se hace compo parte de la formación "Principante en programación G7 - ONE". <br/> <br/>
   La aplicación que encripta textos, utilizando las siguientes "llaves" de encriptación: <br/>
   <br/>
-  La letra "e" es convertida para "enter" <br/>
-  La letra "i" es convertida para "imes" <br/>
-  La letra "a" es convertida para "ai" <br/>
-  La letra "o" es convertida para "ober" <br/>
-  La letra "u" es convertida para "ufat" <br/>
+  * La letra "e" es convertida para "enter" <br/>
+  * La letra "i" es convertida para "imes" <br/>
+  * La letra "a" es convertida para "ai" <br/>
+  * La letra "o" es convertida para "ober" <br/>
+  * La letra "u" es convertida para "ufat" <br/>
   <br/>
 </p>
 
