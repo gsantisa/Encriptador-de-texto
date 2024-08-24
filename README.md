@@ -17,10 +17,17 @@
 
 <h2 align="left"> Requisitos</h2>
   <p>
-    *Solo deja introducir letras minúsculas <br/>
-    *No permite utilizar letras con acentos ni caracteres especiales<br/>
-    *Devuelve una palabra para la versión encriptada y también devolver una palabra encriptada para su versión original<br/>
+    * Solo deja introducir letras minúsculas <br/>
+    * No permite utilizar letras con acentos ni caracteres especiales<br/>
+    * Devuelve una palabra para la versión encriptada y también devolver una palabra encriptada para su versión original<br/>
   </p>
-  
+
+<h2 align="left"> Extra</h2>
+  <p>
+    * Se creo botón que copie el texto encriptado/desencriptado, con la funcionalidad de ctrl+C<br/>
+  </p>
+Extras:
+
+
   
 
